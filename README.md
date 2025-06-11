@@ -32,7 +32,7 @@
 - Feature 3: [Enjoy additional features such as the map]
 
 <div align="center">
-  <img src="1000fps in NeoForge (2).jpg" alt="Mod Screenshot">
+  <img src="1000fps in NeoForge (2).png" alt="Mod Screenshot">
 </div>
 
 ---
