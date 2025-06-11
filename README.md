@@ -32,7 +32,7 @@
 - Feature 3: [Enjoy additional features such as the map]
 
 <div align="center">
-  <img src="" alt="Mod Screenshot">
+  <img src="https://cdn.modrinth.com/data/4b9YZXKw/images/e0718e254e2e396512930d79a306c4ab4bb46bd8_350.webp" alt="Mod Screenshot">
 </div>
 
 ---
