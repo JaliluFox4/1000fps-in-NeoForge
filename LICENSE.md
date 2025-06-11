@@ -1,3 +1,4 @@
+SPDX-License-Identifier: LicenseRef-NeoForge-Mod-License-1.0
 
 # Minecraft Mod License (NeoForge)
 
