@@ -4,7 +4,7 @@
   <img src="1000fps in NeoForge.jpg" alt="Mod Screenshot">
   <br>
   <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-NeoForge_Mod-blue" alt="License"></a>
-  <a href="https://www.curseforge.com/"><img src="https://cf.way2much.no/slug.svg" alt="CurseForge"></a>
+  <a href="https://modrinth.com/modpack/1000fps-in-neoforge"><img src="https://cdn.modrinth.com/data/4b9YZXKw/7ddd1fcb6a14cabf25fa7b12dd6bb8a4173c9c3a_96.webp" alt="CurseForge"></a>
 </div>
 
 ## 📖 نظرة عامة | Overview
@@ -65,20 +65,6 @@ By using this mod you agree to:
 
 ---
 
-## 🤝 المساهمة | Contributing
-<div dir="rtl">
-
-- للإبلاغ عن مشكلات: [رابط Issues]
-- لطلب ميزات: [راقب Discussions]
-- للمساهمة بالشفرة: انسخ المستودع وأرسل Pull Request
-
-</div>
-
-- Report issues: [Issues link]
-- Request features: [Discussions link]
-- Contribute code: Fork repository and submit PR
-
----
 
 ## 📞 التواصل | Contact
 <div dir="rtl">
