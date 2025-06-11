@@ -1,7 +1,7 @@
 # تعديل [1000fps in NeoForge] لـ ماينكرافت / [1000fps in NeoForge]  Mod for Minecraft 
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Mod+Screenshot" alt="Mod Screenshot">
+  <img src="1000fps in NeoForge.jpg" alt="Mod Screenshot">
   <br>
   <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-NeoForge_Mod-blue" alt="License"></a>
   <a href="https://www.curseforge.com/"><img src="https://cf.way2much.no/slug.svg" alt="CurseForge"></a>
