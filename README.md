@@ -31,6 +31,10 @@
 - Feature 2: [Reduce device heat]
 - Feature 3: [Enjoy additional features such as the map]
 
+<div align="center">
+  <img src="1000fps in NeoForge.jpg" alt="Mod Screenshot">
+</div>
+
 ---
 
 ## 📥 التثبيت | Installation
